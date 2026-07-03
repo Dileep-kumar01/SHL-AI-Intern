@@ -1,0 +1,7 @@
+User Query:
+{query}
+
+Assessment Catalog:
+{catalog}
+
+Recommend the best SHL assessments for the user's query.
